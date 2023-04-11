@@ -3,18 +3,7 @@
 
 ## About
 
-Developed this Project using ReactJS. </br>
-
-
-## :rocket: Technologies
-
-- [React](https://reactjs.org/)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [React Hooks Form](https://react-hook-form.com/)
-- [React Router](https://reactrouter.com/web/guides/quick-start)
-- [Material-UI](https://material-ui.com/)
-- [Axios](https://github.com/axios/axios)
-- [Notistack](https://www.iamhosseindhv.com/notistack)
+Developed this Project 
 
 ## Run Locally
 
