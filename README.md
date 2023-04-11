@@ -5,7 +5,6 @@
 
 Developed this Project using ReactJS. </br>
 
-## ▶️ [Demo](https://www.youtube.com/watch?v=bNtYqpdhYRc)
 
 ## :rocket: Technologies
 
@@ -22,7 +21,7 @@ Developed this Project using ReactJS. </br>
 - Clone the project
 
 ```bash
-  git clone https://github.com/MohitMurotiya/CarServiceApplication.git
+  git clone https://github.com/indhuprakashprakash/car-service-project
 ```
 
 - Go to the project directory
