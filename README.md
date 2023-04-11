@@ -10,7 +10,7 @@ Developed this Project
 - Clone the project
 
 ```bash
-  git clone https://github.com/indhuprakashprakash/car-service-project
+  https://github.com/indhuprakashprakash/car-service-project.git
 ```
 
 - Go to the project directory
